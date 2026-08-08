@@ -1,0 +1,6 @@
+Artificial Intelligence is the field of building systems that can perform tasks that normally require human intelligence.
+Machine learning allows computers to learn patterns from data without being explicitly programmed.
+Deep learning uses neural networks with many layers to solve complex problems such as image recognition and language processing.
+Natural language processing helps machines understand and generate human language.
+Computer vision enables computers to interpret and analyze visual information from images and videos.
+Data science combines statistics, programming, and domain knowledge to extract useful insights from data.
